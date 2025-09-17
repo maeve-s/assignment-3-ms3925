@@ -1,7 +1,9 @@
 ---
-title: "assignment-3-ms3925"
+title: "Crochet Creations"
 ---
 
-This is a Quarto website.
+Author: Maeve (Github account: <https://github.com/maeve-s>)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Collaborator: Caleb (Github account: <https://github.com/LantonMonalog>)
+
+![A learn to crochet Wooble animal, Maeve the Duck! My first crochet project](https://thewoobles.com/cdn/shop/files/Maeve_The_Duck_Retouched_530x@2x.jpg?v=1720629692){width="288"}
