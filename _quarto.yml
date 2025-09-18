@@ -11,6 +11,7 @@ website:
       - about.qmd
       - current_projects.qmd
       - future_projects.qmd
+      - past-projects.qmd
 
 format:
   html:
